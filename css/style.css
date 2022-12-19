@@ -1,0 +1,98 @@
+.imagen-tarjeta {
+    margin: 2 50px;
+
+
+}
+
+#comprar {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) url("./img/ba1.jpg");
+    background-size:cover;
+    background-position: center;
+}
+
+.tarjeta-grupal {
+    padding: 0 10%;
+}
+
+.texto-caja {
+    padding: 0 15px;
+}
+
+.texto-h5 {
+    padding-right: 10%;
+
+
+}
+
+
+.boton {
+   
+    justify-content: flex-end;
+    padding-left: 73%;
+    padding-right: 5%;
+    padding-top: 2%;
+}
+
+.color-barra{
+    background-color: rgb(75, 70, 70);
+    padding: 0;
+}
+
+.color-section {
+    background-color: rgb(56, 55, 55);
+}
+
+.color-footer{
+    background-color: rgb(8, 78, 99);
+    padding: 1%;
+    text-align: center;
+}
+
+.color-boton {
+    background-color: rgb(63, 172, 76);
+   
+    width: 700px;
+    justify-content: center;
+    font-size: 20px;
+    
+    
+    
+}
+
+.color-react {
+    background-color: darkcyan;
+    text-decoration: white;
+    font-weight: bold;
+    
+}
+
+.texto-negrita{
+    font-weight: bold;
+}
+
+.boton-comprar{
+    background-color: rgb(0, 138, 0);
+}
+
+
+.texto-parrafo {
+   
+    padding-right: 10%;
+    padding-left: 62%;
+    text-align: right;
+    text-justify: auto;
+}
+    
+.carousel-item
+{ 
+    background-size: cover;
+    background-position: center center;       
+    opacity: .8;
+}
+
+.text-color{
+    color: white;
+
+
+}
+

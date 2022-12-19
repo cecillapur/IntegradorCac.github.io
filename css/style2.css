@@ -1,0 +1,44 @@
+
+
+.color-barra{
+    background-color: rgb(75, 70, 70);
+    padding: 0;
+}
+
+.color-footer{
+    background-color: rgb(8, 78, 99);
+    padding: 1%;
+    text-align: center;
+}
+
+footer{
+    margin-top: 600px;
+}
+
+.texto-caja {
+    padding: 0 15px;
+}
+
+.texto-negrita{
+    font-weight: bold;
+}
+
+.color-section {
+    background-color: rgb(56, 55, 55);
+}
+
+
+.tabla-responsive{
+    margin-top: 50px;
+    justify-content: center;
+}
+
+
+
+.card{
+    margin-top: 100px;
+}
+
+.boton-modificar{
+    height: 50px;
+}
